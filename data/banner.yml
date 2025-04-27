@@ -1,13 +1,11 @@
 ####################### Banner #########################
 style: "style5 orient-left content-align-center image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title: "Michaela Petrová <br>&<br> Jiří Dostál "
+title: "Budeme se brát!"
 subtitle: |
-  Se budou brat
-  <br>
-  bude to sweet
+  Michaela Petrová & Jiří Dostál
 content: |
-  Tady napise misa neco chytreho o tom jak skvele to bude. <span class="demo-controls">
+
 button:
   - link: "#kdekdy"
-    label: "Podrobnosti"
+    label: "Přijměte naše pozvání"
 image: "images/bg.jpg"

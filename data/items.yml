@@ -1,22 +1,18 @@
-title: "Podrobnosti"
+title: "Zveme vás na naši svatbu!"
 id: "kdekdy"
 content: |
-  This is an <strong>Items</strong> element, 
-  and it's basically just a grid for organizing items of various types. 
-  You can customize its <span class="demo-controls">appearance with
-   a number of modifiers</span>, as well as assign it an optional 
-   <code>onload</code> or <code>onscroll</code> transition modifier
-    (<a href="#reference-items">details</a>).
+  Tak, a je to oficiální! Svatba se blíží a my bychom vás rádi pozvali na oslavu našeho velkého dne. Těšíme se na vás!
+
 style: "style1 medium onscroll-fade-in"
 items:
 
   # feature item loop
   - name: "Kdy?"
-    content: "31.10.2025"
+    content: "Obřad se konná 31.10.2025"
     style: "solid style2 major fa-calendar-days"
 
-  # feature item loop
+  # feature item loop https://mapy.cz/s/jenavudore
   - name: "Kde?"
-    content: "Lhotka u Přerova"
+    content: "<a href='https://mapy.cz/s/jenavudore' target='_blank'>Nový dvůr, Lhotka u Přerova</a>"
     style: "style2 major fa-location-dot"
 
