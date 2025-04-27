@@ -1,6 +1,6 @@
 ####################### Banner #########################
 style: "style5 orient-left content-align-center image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title: "Jiří a Michaela"
+title: "Michaela Petrová <br>&<br> Jiří Dostál "
 subtitle: |
   Se budou brat
   <br>
@@ -8,8 +8,6 @@ subtitle: |
 content: |
   Tady napise misa neco chytreho o tom jak skvele to bude. <span class="demo-controls">
 button:
-  - link: "/first-link"
-    label: "First Button"
-  - link: "/second-link"
-    label: "Second Button"
-image: "images/venec.png"
+  - link: "#kdekdy"
+    label: "Podrobnosti"
+image: "images/bg.jpg"
