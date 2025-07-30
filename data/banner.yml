@@ -1,11 +1,11 @@
 ####################### Banner #########################
-style: "style5 orient-center content-align-center fullscreen onload-image-fade-in onload-content-fade-right"
+style: "style1 orient-center content-align-center fullscreen onload-image-fade-in onload-content-fade-right"
 title: "Budeme se brát!"
 subtitle: |
-  Michaela Petrová & Jiří Dostál
+  Míša & Jirka
 content: |
 
 button:
   - link: "#kdekdy"
     label: "Přijměte naše pozvání"
-image: "images/bg.jpg"
+image: "images/bg4.jpg"

@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "dress"
+title : "Co na sebe?"
+content: |
+  Prosíme nechoďte v teplákovce nebo v bílém. Jinak zvolte cokoliv, v čem se cítíte a vypadáte dobře.
+image: "images/dress.jpg"

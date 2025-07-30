@@ -1,18 +1,19 @@
 title: "Zveme vás na naši svatbu!"
 id: "kdekdy"
 content: |
-  Tak, a je to oficiální! Svatba se blíží a my bychom vás rádi pozvali na oslavu našeho velkého dne. Těšíme se na vás!
+  Vážení a milí, i po dvou dětech se můžou dít zázraky, a tak konečně přišel i náš čas. Nahoďte obleky, obujte kecky a pojďte s námi slavit (do rozumných hodin i s nevěstou, pak už jen s ženichem).
+
 
 style: "style1 medium onscroll-fade-in"
 items:
 
   # feature item loop
   - name: "Kdy?"
-    content: "Obřad se koná 31.10.2025"
+    content: "pátek 31. října 2025 ve 12:00"
     style: "solid style2 major fa-calendar-days"
 
   # feature item loop https://mapy.cz/s/jenavudore
   - name: "Kde?"
-    content: "<a href='https://mapy.cz/s/jenavudore' target='_blank'>Nový dvůr, Lhotka u Přerova</a>"
+    content: "Obřad, hostina i zábava se konají v areálu <a href='https://mapy.cz/s/jenavudore' target='_blank'> Nový dvůr ve Lhotce u Přerova</a>"
     style: "style2 major fa-location-dot"
 

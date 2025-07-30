@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "dotaznik"
+title : "Hodláte dorazit? A můžeme to vědět?"
+content: |
+  Prosím vyplňte náš krátký dotazníček. Vyplněním dotazníku nám dáváte souhlas se zpracováním osobních údajů v souladu s GDPR. Díky psíky <3
+button: 
+  label: "Otevřít dotazník"
+  link: "https://www.google.com"
+image: "images/ksicht.jpg"
