@@ -8,7 +8,7 @@ items:
 
   # feature item loop
   - name: "Kdy?"
-    content: "Obřad se konná 31.10.2025"
+    content: "Obřad se koná 31.10.2025"
     style: "solid style2 major fa-calendar-days"
 
   # feature item loop https://mapy.cz/s/jenavudore
