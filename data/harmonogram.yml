@@ -1,0 +1,25 @@
+title: "Jak to bude probíhat?"
+id: "harmonogram"
+content: |
+
+style: "style3 small onscroll-fade-in"
+items:
+
+  # feature item loop
+  - name: "Příjezd"
+    content: "10.00"
+    style: "solid style1 major fa-clock"
+
+    # feature item loop
+  - name: "Obřad"
+    content: "12.00"
+    style: "solid style1 major fa-clock"
+
+    # feature item loop
+  - name: "Oběd"
+    content: "13.30"
+    style: "solid style1 major fa-clock"
+
+    # feature item loop
+  - name: "Zábava!"
+    style: "solid style1 major fa-clock"
