@@ -3,5 +3,6 @@ style: "style2 orient-left content-align-left image-position-center onscroll-ima
 id: "dress"
 title : "Co na sebe?"
 content: |
-  Prosíme nechoďte v teplákovce nebo v bílém. Jinak zvolte cokoliv, v čem se cítíte a vypadáte dobře.
+  Prosíme nechoďte v teplákovce nebo v bílém. Jinak zvolte cokoliv, v čem se cítíte a vypadáte dobře. 
+  Obrázek vpravo nechť je inspirací.
 image: "images/dress.jpg"

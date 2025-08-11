@@ -1,6 +1,9 @@
 ####################### Spotlight #########################
-style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "dary"
 title : "Dary"
 content: |
+ Největším darem pro nás bude, když nám pohlídáte děti :-D
+  <br> <br>
   S dary si nedělejte starosti. Hlavně budeme rádi, když přijdete. Pokud budete chtít, můžete nám finančně přispět na veselku.
+image: "images/dary.jpg" 
